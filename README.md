@@ -1,6 +1,6 @@
 # MC_production
 
-### MC DsTau3mu_Phase2_1Mevts
+### MC DsTau3mu_PhaseII_1Mevts
 	- CMSSW release: CMSSW_11_2_0_pre6
 	- geometry: Extended2026D49
 	- GlobalTag: 112X_mcRun4_realistic_v2
